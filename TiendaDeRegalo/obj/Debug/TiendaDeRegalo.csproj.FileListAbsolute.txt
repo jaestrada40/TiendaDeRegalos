@@ -1,0 +1,7 @@
+C:\Users\jaest\source\repos\TiendaDeRegalo\TiendaDeRegalo\bin\Debug\TiendaDeRegalo.exe.config
+C:\Users\jaest\source\repos\TiendaDeRegalo\TiendaDeRegalo\bin\Debug\TiendaDeRegalo.exe
+C:\Users\jaest\source\repos\TiendaDeRegalo\TiendaDeRegalo\bin\Debug\TiendaDeRegalo.pdb
+C:\Users\jaest\source\repos\TiendaDeRegalo\TiendaDeRegalo\obj\Debug\TiendaDeRegalo.csproj.AssemblyReference.cache
+C:\Users\jaest\source\repos\TiendaDeRegalo\TiendaDeRegalo\obj\Debug\TiendaDeRegalo.csproj.CoreCompileInputs.cache
+C:\Users\jaest\source\repos\TiendaDeRegalo\TiendaDeRegalo\obj\Debug\TiendaDeRegalo.exe
+C:\Users\jaest\source\repos\TiendaDeRegalo\TiendaDeRegalo\obj\Debug\TiendaDeRegalo.pdb
